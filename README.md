@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=6E56F7&center=true&vCenter=true&width=650&lines=👋+Hi+there%2C+I'm+Likhith!;Tech+Lead+%40+KL+Expedite+(KLX);Microsoft+Azure+AZ-900+%E2%9C%85+Certified;ServiceNow+CSA+%E2%9C%85+Certified;GAN+%7C+Spring+Boot+%7C+React+Developer;Filmmaker+%26+Screenwriter+🎬)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=6E56F7&center=true&vCenter=true&width=650&lines=👋+Hi+there%2C+I'm+Likhith!;Microsoft+Azure+AZ-900+%E2%9C%85+Certified;ServiceNow+CSA+%E2%9C%85+Certified;GAN+%7C+Spring+Boot+%7C+React+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,11 +18,9 @@ likhith = {
     "university"  : "KL University, Vijayawada",
     "degree"      : "B.Tech CSE — Graduating May 2027",
     "cgpa"        : "8.5 / 10",
-    "role"        : "Tech Lead — Zoho Domain @ KL Expedite (KLX)",
     "certifications" : ["Microsoft Azure AZ-900 ☁️", "ServiceNow CSA 🔧"],
     "interests"   : ["Deep Learning 🧠", "Full Stack Dev 💻", "Cloud ☁️", "Filmmaking 🎬"],
     "currently"   : "Building GANs · Applying for Internships · Shooting 'Rhythm'",
-    "fun_fact"    : "I write & direct short films when I'm not writing code 🎥"
 }
 ```
 
